@@ -1,15 +1,15 @@
-BitShares-UI
+RakyDex-UI
 ============
 [中文版](README_zh.md)
 
-This is a light wallet that connects to a BitShares API provided by the *witness_node* executable.
+This is a light wallet that connects to a Rakydex API provided by the *witness_node* executable.
 
 
 It *stores all keys locally* in the browser, *never exposing your keys to anyone* as it signs transactions locally before transmitting them to the API server which then broadcasts them to the blockchain network. The wallet is encrypted with a password of your choosing and encrypted in a browser database.
 
 ## Getting started
 
-BitShares-UI depends node Node.js, and version 6+ is required.
+RakyDex-UI depends node Node.js, and version 6+ is required.
 
 On Ubuntu and OSX, the easiest way to install Node is to use the [Node Version Manager](https://github.com/creationix/nvm).
 
